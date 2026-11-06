@@ -1,0 +1,5 @@
+set,model_arm,instruction_following,helpfulness,fluency,average
+ID,base,2.59,2.24,2.26,2.363
+ID,fine-tuned,2.57,2.25,2.28,2.367
+OOD,base,2.34,2.15,2.13,2.207
+OOD,fine-tuned,2.34,2.10,2.15,2.197

@@ -1,0 +1,4 @@
+method,accuracy,precision,recall,f1,best_hyperparameters
+Base Gemma-2-2b zero-shot,0.7135,0.7539,0.6340,0.6888,n/a
+LoRA (all linear layers),0.8570,0.8665,0.8440,0.8551,"r=32, alpha=32, lr=1.10e-4, dropout=0.087"
+Narrow adapter (q/v only),0.8620,0.8606,0.8640,0.8623,"rank=16, alpha=32, lr=1.29e-4, dropout=0.031"
